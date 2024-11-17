@@ -19,5 +19,4 @@ puts "Subtract: " + subtract.to_s
 puts "Multiply: " + multiply.to_s
 puts "DIvide: " + divide.to_s
 
-
 puts "Ruby\n" * 5
